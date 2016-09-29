@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:git@github.com:github.com/Bestyaya/Archy-s-blog.git
+  repo:git@github.com:Bestyaya/Archy-s-blog.git
   branch: master
